@@ -8,6 +8,7 @@ on:
     paths:
       - '**.md'
       - 'figures/**'
+  workflow_dispatch:
 
 jobs:
   converttopdf:
