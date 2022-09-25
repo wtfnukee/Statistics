@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 
+[![Docs to PDF](https://github.com/wtfnukee/Statistics/actions/workflows/convert-to-pdf.yml/badge.svg)](https://github.com/wtfnukee/Statistics/actions/workflows/convert-to-pdf.yml)
+
 # Конспекты по статистике
 
 
